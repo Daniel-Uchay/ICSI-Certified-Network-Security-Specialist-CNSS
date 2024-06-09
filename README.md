@@ -24,7 +24,8 @@
 
 :computer: &nbsp; **View Course [here](https://www.icsi.co.uk/courses/icsi-cnss-certified-network-security-specialist-covid-19)**
 
-:star: &nbsp; **View My Certificate [here](https://www.icsi.co.uk/certificates/0cispmbyrq)** 
+:star: &nbsp; **View My Certificate [here](https://www.credential.net/ec1647ab-cb98-4bd6-8154-615d202e05c5)**
+📖: &nbsp; **Certificate [image](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/18864655)**
 
 &nbsp;
 
